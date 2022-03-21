@@ -1,0 +1,17 @@
+.jogos {
+    color: rgb(11, 35, 109);
+    background-color: solid rgb(221, 190, 13);
+    font-family: sans-serif;
+    background-color: #fbfd69;
+    width:1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 25vh;
+    border-radius: 10px;
+    text-align: center;
+}
+
+p {
+    display: inline-block;
+}
